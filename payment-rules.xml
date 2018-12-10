@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<payments>
+    <payment name="P">PhysicalProductProcess</payment>
+    <payment name="B">BookPaymentProcess</payment>
+    <payment name="M">MembershipPaymentProcess</payment>
+    <payment name="V">VideoPaymentProcess</payment>
+</payments>
